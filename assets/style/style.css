@@ -1,0 +1,12 @@
+/* CSS personnalisé pour changer la couleur du placeholder */
+#emailInput::placeholder {
+  color: #fff; /* Remplacez #your_color par la couleur souhaitée */
+}
+
+.w-90 {
+    width:90%
+}
+
+.d-inline-block {
+    display:inline-block;
+}
